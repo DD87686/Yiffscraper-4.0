@@ -1,4 +1,4 @@
-# Yiffscraper-4.0
+# Yiffscraper-4.0 
 $$i've\\space finally\\space got\\space around\\space to\\space making\\space this\\space (shitty)\\space readme$$
 
 a poorly coded scraper for e621 with authentication to download content which is behind authorization (cub) <br>
