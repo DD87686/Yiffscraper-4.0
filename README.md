@@ -4,6 +4,9 @@ $$i've\\space finally\\space got\\space around\\space to\\space making\\space th
 a poorly coded scraper for e621 with authentication to download content which is behind authorization (cub) <br>
 latest version: [v1.1.0](https://github.com/DD87686/Yiffscraper-4.0/releases/tag/v1.1.0)
 
+> [!NOTE]
+> Please refer to [this repo](https://github.com/DD87686/YiffScraper-4.0-CLI) for the CLI version.
+
 <img width="128" height="128" alt="YS4 icon" src="https://github.com/user-attachments/assets/032ec505-e4cb-4437-9853-e1c254d8f3ef" />
 
 
